@@ -1,0 +1,27 @@
+{
+  "name": "fsx",
+  "version": "1.0.0",
+  "description": "Helpers for Node.js fs module tu support await on asynchronous fs calls",
+  "main": "fsx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4x1m1l14n/fsx.git"
+  },
+  "keywords": [
+    "fs",
+    "async",
+    "await",
+    "helper",
+    "filesystem",
+    "io"
+  ],
+  "author": "mm4x1m1l14n",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m4x1m1l14n/fsx/issues"
+  },
+  "homepage": "https://github.com/m4x1m1l14n/fsx#readme"
+}
